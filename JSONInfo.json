@@ -1,0 +1,137 @@
+{
+  "records": [
+    {
+      "properties": {
+        "name": "John",
+        "age": 32,
+        "marks": 450
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "James",
+        "age": 30,
+        "marks": 420
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Jacob",
+        "age": 32,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Jordan",
+        "age": 25,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Jimmy",
+        "age": 26,
+        "marks": 420
+      }
+
+    },
+    {
+      "properties": {
+        "name": "David",
+        "age": 30,
+        "marks": 450
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Amy",
+        "age": 32,
+        "marks": 420
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Sandra",
+        "age": 28,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Williams",
+        "age": 25,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Jack",
+        "age": 26,
+        "marks": 420
+      }
+
+    },
+    {
+      "properties": {
+        "name": "Jayrus",
+        "age": 32,
+        "marks": 450
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Moses",
+        "age": 30,
+        "marks": 420
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Cherry",
+        "age": 32,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Blessy",
+        "age": 25,
+        "marks": 412
+      }
+
+
+    },
+    {
+      "properties": {
+        "name": "Roman",
+        "age": 26,
+        "marks": 420
+      }
+
+    }
+  ]
+
+}
